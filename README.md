@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @educrystal
-- 👀 I’m interested in technical writing, documentation, and rock collecting. 
-- 🌱 I’m currently learning all sorts of new languages.
+- 👋 Hi, I’m @educrystal and I'm a technical content writer based in Seattle, WA. 
+- 👀 I’m interested in technical writing, documentation, and knowledge management! 
+- 🌱 I’m currently learning all sorts of new languages. 
 - 💞️ I’m looking to collaborate on writing great documentation.
 - 📫 Reach me at crystal.song@educative.io 
 
